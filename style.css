@@ -83,7 +83,7 @@
     height: 47px;
     margin: 38px 0 0 75px;
 }
-@media screen and (max-width:361px){
+@media screen and (max-width:480px){
     .wrapper{
         width: 100%;
     }
@@ -198,7 +198,7 @@
     width: 368px;
     margin-top: 11px;
 }
-@media screen and (max-width:361px) {
+@media screen and (max-width:480px) {
     .text-recent{
         color: var(--Dark-Color, #21243D);
         font-family: Heebo;
@@ -334,7 +334,7 @@
     justify-content: center;
     margin-top: 50px;
 }
-@media screen and (max-width:361px) {
+@media screen and (max-width:480px) {
     .text-featured{
         font-size: 18px;
         width: 124px;
@@ -395,7 +395,7 @@ footer{
     line-height: normal;
     margin-top: 26px;
 }
-@media screen and (max-width:361px) {
+@media screen and (max-width:480px) {
     footer{
         width: 100%;
     }
