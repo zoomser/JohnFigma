@@ -37,9 +37,7 @@
     background-color: azure;
     padding: 5px;
 }
-@media screen and (max-width:360px){
-    
-}
+
 
 /* ----------------Main---------------- */
 
@@ -242,12 +240,6 @@
     .text-view-all{
         margin: 0;
         display: none;
-    }
-    .article-feb2{
-        
-       
-       
-        
     }
 }
 /* ------------------Featured works-------------- */
