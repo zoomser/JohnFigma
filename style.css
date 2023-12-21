@@ -84,7 +84,9 @@
     margin: 38px 0 0 75px;
 }
 @media screen and (max-width:360px){
-    
+    .wrapper{
+        width: 100%;
+    }
     .main-h1{
         width: 312px;
         color: var(--Dark-Color, #21243D);
