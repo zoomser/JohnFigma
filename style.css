@@ -212,16 +212,16 @@
     }
     .article-feb1{
         margin: 0;
-        width: 360px;
+        width: min(100%,360px);
     }
     .recent-block{
-        width: 360px;
+        width: min(100%,360px);
         height: 647px;
     }
     .recent-block-all{
         display: flex;
         flex-direction: column;
-        width: 360px;
+        width: min(100%,360px);
         gap: 20px;
     }
     .text-making{
