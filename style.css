@@ -261,6 +261,7 @@
         width: min(100%,360px);
     }
     .recent-block{
+        margin: 0 auto;
         width: min(100%,360px);
         height: 647px;
     }
