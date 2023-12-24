@@ -337,7 +337,7 @@
 @media only screen and (min-width:360px) and (max-width:767px) {
     .text-featured{
         font-size: 18px;
-        width: 124px;
+        width: min(100%,124px);
         margin-top: 20px;
         margin-left: 110px;
     }
@@ -356,20 +356,20 @@
         display: none;
     }
     .text-furur{
-        width: 340px;
+        width: min(100%,340px);
         margin-left: 10px;
     }
     .rectang30{
-        width: 319px;
+        width: min(100%,319px);
         height: 210px;
         margin-left: 10px;
     }
     .text-designing{
-        width: 350px;
+        width: min(100%,350px);
         margin-left: 10px;
     }
     .text-dashboard2020{
-        width: 350px;
+        width: min(100%,350px);
         margin-left: 10px;
     }
 }
