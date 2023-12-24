@@ -108,14 +108,19 @@
         gap: 43px;
     }
     .button-resume{
+        display: flex;
+        justify-content: center;
+        align-items: center;
         width: 208px; 
+        margin: 0 auto;
     }
     .a_button{
         display: flex;
         justify-content: center;
         align-items: center;        
         text-decoration: none;
-        margin-top: 50px;        
+        margin-top: 50px;   
+        margin-bottom: 30px;     
     }
     .media-pic-john{
         width: 170px;
