@@ -98,8 +98,7 @@
         font-size: 32px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px; /* 125% */
-        
+        line-height: 40px; /* 125% */        
     }
     .main-h1-and-pic{
         display: flex;
@@ -109,25 +108,24 @@
         gap: 43px;
     }
     .button-resume{
-        margin-left: 0;
-        margin-top: 30px;
-        
+        width: 208px;
+       margin: 0 auto;
+                
     }
     .a_button{
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-items: center;        
         text-decoration: none;
+        margin-top: 50px;        
     }
     .media-pic-john{
         width: 170px;
-        height: 170px;
-        
+        height: 170px;        
     }
     .text-main-john{
         width: 328px;
-        color: var(--Dark-Color, #21243D);
-        
+        color: var(--Dark-Color, #21243D);        
     }
     .burger{
         display: flex;
@@ -143,7 +141,7 @@
         display: none;        
         background: rgba(7, 193, 240, 0.5);
         align-items: center;  
-         
+         gap: 10px;
     }
     .show{
         display: flex;
