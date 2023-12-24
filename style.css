@@ -99,23 +99,35 @@
         font-style: normal;
         font-weight: 700;
         line-height: 40px; /* 125% */
-        margin-left: 20px;
+        
     }
     .main-h1-and-pic{
         display: flex;
         flex-direction: column-reverse;
+        align-items: center;
         margin-top: 33px;
         gap: 43px;
     }
+    .button-resume{
+        margin-left: 0;
+        margin-top: 30px;
+        
+    }
+    .a_button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+    }
     .media-pic-john{
-        width: 170.859px;
-        height: 170.859px;
-        margin-left: 90px;
+        width: 170px;
+        height: 170px;
+        
     }
     .text-main-john{
         width: 328px;
         color: var(--Dark-Color, #21243D);
-        margin-left: 30px;
+        
     }
     .burger{
         display: flex;
@@ -130,7 +142,8 @@
     .nav-ul{
         display: none;        
         background: rgba(7, 193, 240, 0.5);
-        align-items: center;   
+        align-items: center;  
+         
     }
     .show{
         display: flex;
