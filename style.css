@@ -404,7 +404,7 @@
     border-radius: 5px;
     text-decoration: none;
 }
-.detail{
+.detail_home{
     display: flex;
     justify-content: baseline;
     margin-top: 50px;
@@ -458,7 +458,7 @@
         width: min(100%,350px);
         margin-left: 10px;
     }
-    .detail{
+    .detail_home{
         display: flex;
         justify-content: center;
         margin-top: 20px;
