@@ -587,7 +587,7 @@ footer{
     .line_work{
         width: min(100%,360px);
     }
-    .featured_article2{
+    .featured-article1, .featured_article2{
         display: none;
     }
     .featured-article1{
@@ -610,3 +610,5 @@ height: 230px;
         margin-top: 20px;
     }
 }
+
+/* ----------------Contact----------------- */
