@@ -406,7 +406,7 @@
 }
 .detail_home{
     display: flex;
-    justify-content: baseline;
+    justify-content: center;
     margin-top: 50px;
 }
 @media only screen and (min-width:360px) and (max-width:767px) {
